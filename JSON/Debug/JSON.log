@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\oleks\source\repos\JSON\JSON\main.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  JSON.vcxproj -> C:\Users\oleks\source\repos\JSON\Debug\JSON.exe
