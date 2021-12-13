@@ -63,7 +63,7 @@ Letter Letter::Deserialize() {
 }
 
 void Letter::Print() {
-	cout << "Sender: " << GetSender() << " Recipient: " << GetRecipient() << " Text: " << GetText() << " Send Date: " << GetSendDate() << endl;
+	cout << "Sender: " << GetSender() << "\nRecipient: " << GetRecipient() << "\nText: " << GetText() << "\nSend Date: " << GetSendDate() << endl;
 }
 
 void Letter::operator =(Letter other) {
